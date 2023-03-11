@@ -8,3 +8,7 @@ Weather prediction involving  collecting global meteorological surface and upper
 
 Pre-processing, Analysing data using Python and MYSQL.
 In using Pandas, I correct years for given data set, remove duplicate rows and duplicate Columns, fix a few labels in the given data set, and I  encoded the data into suitable format.
+
+Module 2:
+
+Visualization data using Tableau
